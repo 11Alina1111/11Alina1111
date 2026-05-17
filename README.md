@@ -11,6 +11,12 @@ I am a graduate of the diploma programs in both Health Information Systems (SIS)
 - SQL
 
 
+## Contact me : 
+📫 [![You Tube](https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw)]
+[![LinkeIn].(https://www.linkedin.com/in/alina-elizondo-sis/)]
+
+
+
 <!--
 **11Alina1111/11Alina1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
