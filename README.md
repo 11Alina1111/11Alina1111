@@ -3,7 +3,7 @@
 ## About me:
 I am a graduate of the career in both Health Information Systems (HIS) and Health Records and Statistics (REDES). I consider myself a very dedicated person with a great interest in the health field. I am currently pursuing a baccalaureate's degree in the Health Information Systems -UNED
 
-*#SoySIS #SoyUNED FuturaIngeniera*
+**#SoySIS #SoyUNED #FuturaIngeniera**
 
 ## Programming languages:
 - Python
