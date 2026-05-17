@@ -18,7 +18,7 @@ I am a graduate of the diploma programs in both Health Information Systems (SIS)
 <p align="center">
   <a href="https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw" target="_blank">
     <img 
-      src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" 
+      src=https://static.vecteezy.com/system/resources/previews/011/998/173/original/youtube-icon-free-vector.jpg" 
       alt="YouTube"
       width="120"
     />
