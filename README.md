@@ -17,7 +17,7 @@ I am a graduate of the career in both Health Information Systems (SIS) and Healt
     <img 
       src= "https://static.vecteezy.com/system/resources/previews/011/998/173/original/youtube-icon-free-vector.jpg" 
       alt="YouTube"
-      width="100"
+      width="80"
     />
   </a>
 
@@ -25,7 +25,7 @@ I am a graduate of the career in both Health Information Systems (SIS) and Healt
     <img 
       src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" 
       alt="LinkedIn"
-      width="100"
+      width="80"
     />
   </a>
 </p>
