@@ -15,7 +15,7 @@ I am a graduate of the diploma career in both Health Information Systems (HIS) a
 
 ## Contact me : 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw" target="_blank">
+  <a href="https://www.youtube.com/@alinaelizondosanchez" target="_blank">
     <img 
       src= "https://static.vecteezy.com/system/resources/previews/011/998/173/original/youtube-icon-free-vector.jpg" 
       alt="YouTube"
