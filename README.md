@@ -17,7 +17,8 @@ I am a graduate of the diploma programs in both Health Information Systems (SIS)
 ## Contact me : 
 📫 [![You Tube Badge](https://static.vecteezy.com/system/resources/previews/011/998/173/original/youtube-icon-free-vector.jpg)](https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw)
 
-[![LinkedIn Badge](https://es.vecteezy.com/png-gratis/icono-linkedinn)](https://www.linkedin.com/in/alina-elizondo-sis/)
+[![LinkedIn Badge]<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" />
+)](https://www.linkedin.com/in/alina-elizondo-sis/)
 
 
 
