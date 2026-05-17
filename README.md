@@ -1,8 +1,7 @@
 ## Hi  👋 My name is Alina Elizondo Sánchez
 
- <img 
       src="<img width="1280" height="720" alt="descargar" src="https://github.com/user-attachments/assets/9bb702ce-952c-4c37-83e8-bda7d200398c" />
-" 
+
 
 ## About me:
 I am a graduate of the diploma career in both Health Information Systems (HIS) and Health Records and Statistics. I consider myself a very dedicated person with a great interest in the health field. I am currently pursuing a baccalaureate's degree in the Health Information Systems -UNED
