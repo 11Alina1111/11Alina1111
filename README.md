@@ -15,10 +15,23 @@ I am a graduate of the diploma programs in both Health Information Systems (SIS)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![You Tube Badge]<img width="500" height="500" alt="image" src=  src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" />)].(https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw)
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" 
+      alt="YouTube"
+      width="120"
+    />
+  </a>
 
-[![LinkedIn Badge]<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" />
-)](https://www.linkedin.com/in/alina-elizondo-sis/)
+  <a href="https://www.linkedin.com/in/alina-elizondo-sis/" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/793db691-f643-4a64-90cb-2a4044720a56" 
+      alt="LinkedIn"
+      width="120"
+    />
+  </a>
+</p>
 
 
 
