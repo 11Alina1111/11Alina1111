@@ -12,9 +12,9 @@ I am a graduate of the diploma programs in both Health Information Systems (SIS)
 
 
 ## Contact me : 
-[![You Tube](https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw).]
+**You Tube:** https://www.youtube.com/channel/UCv6FUz2qNgXMnSz-MNVOiTw
 
-[![LinkeIn].(https://www.linkedin.com/in/alina-elizondo-sis/)]
+**LinkedIn:** https://www.linkedin.com/in/alina-elizondo-sis/
 
 
 
