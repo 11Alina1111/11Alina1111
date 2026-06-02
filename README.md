@@ -39,7 +39,7 @@ I am a graduate of the diploma career in both Health Information Systems (HIS) a
 ------
 Credit: [Alina Elizondo Sánchez](https://github.com/11Alina1111)
 
-Last Edited on: 17/05/2026
+Last Edited on: 02/06/2026
 
 
 <!--
